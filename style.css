@@ -562,7 +562,7 @@ footer li {
     /* margin: 8px; */
     border-radius: 50%;
     position: relative;
-    animation: pulse 1s ease infinite;
+    animation: pulse 3s ease infinite;
     color: #fff;
 
     padding: 39px;
